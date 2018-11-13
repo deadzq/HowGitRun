@@ -1,4 +1,4 @@
-### ÁI hava use this GITHUB for few days.
+### I hava use this GITHUB for few days.
      I am a programmer, and I don't like use English,But the VIM have some error.
 
      Now,I have three Project todo.
@@ -12,3 +12,7 @@
      Today is 2018/07/15. I will finished the System oneByOne.
 
      
+     
+     2018/11/13
+     The interview is good, and tomorrow I will go back to the provincial capital to second interview.
+     And wish me good luck!
